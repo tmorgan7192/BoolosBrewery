@@ -89,3 +89,5 @@ class Strategy(Hard):
 
         game.guess[people[missing_index]] = missing_subject
         guesses.append((missing_index, missing_subject))
+
+        
